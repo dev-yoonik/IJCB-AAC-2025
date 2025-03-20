@@ -45,13 +45,17 @@ For full details, please visit our [challenge website](https://www.youverse.id/a
 
 The provided datasets—_adversarial versions of CelebA and LFW_—include 10 distinct attack types per dataset. Each dataset is accompanied by information files detailing the applied modifications.
 
-- **Only the provided datasets should be used for model development. If usage of external data is suspected the participants may be removed from the challenge.**
+- **Only the provided datasets should be used for model development. We want participants to use only the provided data (can be augmented as desired). Since we also provide the attack package this would benefit participants with more resources to just increase the data size as desired which would go against the challenge goals.**
+- **If usage of external data is suspected the participants may be removed from the challenge.**
 
 ### **3.2 Data Access and Restrictions**
 
 - The data will be made available via a link provided to all registered participants.
 - **Due to licensing constraints, datasets cannot be redistributed.**
 
+### **3.3 Pretrained Models** ###
+The usage of pretrained models is allowed for both tracks.
+These models can be general purpose classification models of face recognition models, e.g. found in `timm`, `torchvison`or `insightface` packages for example.
 ---
 
 ## **4. Adversarial Attack Package**
