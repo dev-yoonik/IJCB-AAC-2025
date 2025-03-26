@@ -54,8 +54,15 @@ The provided datasets—_adversarial versions of CelebA and LFW_—include 10 di
 - **Due to licensing constraints, datasets cannot be redistributed.**
 
 ### **3.3 Pretrained Models** ###
-The usage of pretrained models is allowed for both tracks.
-These models can be general purpose classification models of face recognition models, e.g. found in `timm`, `torchvison`or `insightface` packages for example.
+
+- The usage of pretrained models is allowed for both tracks.
+- These models can be general purpose classification models of face recognition models, e.g. found in `timm`, `torchvison`or `insightface` packages for example.
+
+
+### **3.4 Data Augmentation**
+
+- Any kind of data augmentation is allowed as long as it is explained in the submission and reproducible. 
+
 ---
 
 ## **4. Adversarial Attack Package**
@@ -79,7 +86,13 @@ To further support your development, we have published and continue to maintain 
 
 ### **5.3 Runtime Constraints**
 
+- Clearer inference timing restrictions will be provided in the future.
 - **Inference time must not exceed 1 second per image** when running on a **single-core CPU**.
+
+### **5.4 Submission eligibility**
+
+- All submissions must include a report detailing the methodology.
+- The solutions presented need to be open-sourced to be eligible for the monetary prizes and paper co-authoring.
 
 ---
 
