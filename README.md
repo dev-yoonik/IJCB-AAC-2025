@@ -86,8 +86,8 @@ To further support your development, we have published and continue to maintain 
 
 ### **5.3 Runtime Constraints**
 
-- Clearer inference timing restrictions will be provided in the future.
 - **Inference time must not exceed 1 second per image** when running on a **single-core CPU**.
+- The CPU that will be used for inference is a  Intel Core i9-13900 2 GHz/5.6 GHz. For reference, the inference process using a Resnet50 onnx classification model takes around 0.05 seconds per image.
 
 ### **5.4 Submission eligibility**
 
@@ -118,7 +118,7 @@ To further support your development, we have published and continue to maintain 
 
 ## **9. Timeline and Important Dates**
 
-- March 17, 2025 - Github instruccions release.
+- March 17, 2025 - Github instructions release.
 - March 17, 2025 - Dataset release.
 - May 31, 2025 - Deadline for Algorithm evaluation on platform.
 - June 10, 2025 - Announcement of the results to participants.
