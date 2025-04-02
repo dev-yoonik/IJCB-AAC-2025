@@ -86,8 +86,8 @@ To further support your development, we have published and continue to maintain 
 
 ### **5.3 Runtime Constraints**
 
-- **Inference time must not exceed 1 second per image** when running on a **single-core CPU**.
-- The CPU that will be used for inference is a  Intel Core i9-13900 2 GHz/5.6 GHz. For reference, the inference process using a Resnet50 onnx classification model takes around 0.05 seconds per image.
+- **Inference time should not exceed 0.5 second per image** when running on a **4-core CPU**. We will strictly limit the docker compose to access only 4 CPUS with the --cpus flag. Although this is not a hard limit, it is recommended to keep the inference time under this threshold and solutions far exceeding this limit will be communicated to competitors and discarded from subsequent evaluation. Resubmission is possible.
+- The CPU that will be used for inference is an Intel Core i9-13900 2 GHz/5.6 GHz. For reference, the inference process using a Resnet50 onnx classification model on a docker container restrained to 4 cores takes around 0.1 seconds per image.
 
 ### **5.4 Submission eligibility**
 
