@@ -1,0 +1,6 @@
+fastapi==0.109.0
+requests==2.30.0
+opencv-python==4.10.0.84
+pip-chill==1.0.3
+python-multipart==0.0.9
+uvicorn==0.27.0.post1

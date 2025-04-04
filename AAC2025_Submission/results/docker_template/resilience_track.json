@@ -1,0 +1,14 @@
+[
+    {
+        "image_path_1": "/mnt/test_images/n000002_0001_01.jpg",
+        "image_path_2": "/mnt/test_images/n000002_0002_01.jpg",
+        "similarity": 0.7584527902151638,
+        "comment": "OK"
+    },
+    {
+        "image_path_1": "/mnt/test_images/n000003_0001_01.jpg",
+        "image_path_2": "/mnt/test_images/n000003_0002_01.jpg",
+        "similarity": 0.779228451418881,
+        "comment": "OK"
+    }
+]
