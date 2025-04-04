@@ -83,6 +83,7 @@ To further support your development, we have published and continue to maintain 
 
 - Submit your Docker container via the official challenge portal (details available on the challenge website).
 - All submissions will be executed on our private hardware using the private testing data.
+- We will allow 2 submissions per team, per track.
 
 ### **5.3 Runtime Constraints**
 
