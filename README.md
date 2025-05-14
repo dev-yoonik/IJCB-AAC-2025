@@ -95,6 +95,8 @@ To further support your development, we have published and continue to maintain 
 - All submissions must include a report detailing the methodology.
 - The solutions presented need to be open-sourced to be eligible for the monetary prizes and paper co-authoring.
 
+### **5.5 Submission procedure**
+- To submit your solutions, please send the submission content (as noted on the AAC2025_Submission/README.md) as a zipped folder or drive link to the organizers email at adversarial@youverse.id
 ---
 
 ## **6. Evaluation Protocol**

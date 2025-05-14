@@ -1,0 +1,26 @@
+[
+    {
+        "image_path": "/mnt/test_images/n000002_0001_01.jpg",
+        "score": 0.7127338005056116,
+        "decision": true,
+        "comment": "OK"
+    },
+    {
+        "image_path": "/mnt/test_images/n000002_0002_01.jpg",
+        "score": 0.8652320958209193,
+        "decision": true,
+        "comment": "OK"
+    },
+    {
+        "image_path": "/mnt/test_images/n000003_0001_01.jpg",
+        "score": 0.46498753308332297,
+        "decision": false,
+        "comment": "OK"
+    },
+    {
+        "image_path": "/mnt/test_images/n000003_0002_01.jpg",
+        "score": 0.3567327679267839,
+        "decision": false,
+        "comment": "OK"
+    }
+]

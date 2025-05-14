@@ -2,7 +2,7 @@
 
 This document details how the submission template works and how it should be used. 
 
-The template is setup with three main folders: 
+The template is set up with three main folders: 
 - `docker_template`: The code itself.
 - `results`: Location of extracted results.
 - `test_images`: Location of testing set in the same format as the final testing set.
@@ -86,7 +86,10 @@ sudo ./full_test_resilience.sh
 ```
 
 #### Step 5 - Submission Files
-The content of  `AAC2025_Submission/{submission_name}` is your submission to be sent to the organizers. Please archive the folder {submission_name} and send it according to the submission instructions on the challenge website.
+The content of  `AAC2025_Submission/{submission_name}` is your submission to be sent to the organizers. Please archive the folder {submission_name}.
+
+#### Step 6 - Submission Instructions
+To submit your solutions, please send the submission content as a zipped folder or drive link to the organizers email at adversarial@youverse.id
 
 That's it! 
 
