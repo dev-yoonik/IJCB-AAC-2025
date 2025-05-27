@@ -31,7 +31,7 @@ For full details, please visit our [challenge website](https://www.youverse.id/a
     - **FMR (False Match Rate):** The probability that an imposter is incorrectly accepted.
     - **FNMR (False Non-Match Rate):** The probability that a genuine user is wrongly rejected.
     - **Attack Success Rate (ASR):** The proportion of adversarial inputs that successfully cause misclassification.
-    - **Robustness Score:** A custom metric that measures the model’s overall ability to resist adversarial modifications (detailed computation available on the challenge website).
+    - **Robustness Score:** A custom metric that measures the model’s overall ability to resist adversarial modifications.
 
 ---
 
